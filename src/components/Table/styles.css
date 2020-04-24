@@ -1,0 +1,28 @@
+.loading {
+  font-family: "digital-7";
+  font-size: 1.9rem;
+}
+
+table {
+  margin-bottom: 50px;
+  display: inline;
+  font-family: "digital-7";
+  font-size: 1.9rem;
+}
+
+td {
+  color: yellow;
+}
+
+td,
+th {
+  text-align: start;
+}
+
+th {
+  color: #ffffff;
+}
+
+select {
+  margin: 14px;
+}

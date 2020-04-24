@@ -1,0 +1,12 @@
+.clock {
+  padding: 50px;
+  padding-left: 175px;
+  font-family: "digital-7";
+  font-size: 1.9rem;
+  text-align: left;
+  width: 50%;
+}
+
+h2 {
+  margin-top: 30px;
+}

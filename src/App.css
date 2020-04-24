@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body {
+  color: yellow;
+  background-color: #000000;
+}
+
+.dateblock {
+  display: flex;
+}
+
+.mbta-logo {
+  width: 30px;
+  padding: 2px;
+  height: 30px;
+  border-radius: 15px;
+}
