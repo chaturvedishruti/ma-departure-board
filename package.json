@@ -1,5 +1,5 @@
 {
-  "name": "mbta-app",
+  "name": "departure-board",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -26,7 +26,7 @@ export class App extends Component {
       <div className="App">
         <h2>
           <img className="mbta-logo" src="MBTA-logo.png" alt="MBTA logo"></img>
-          MBTA TRAIN SCHEDULE
+          MBTA TRAIN DEPARTURE BOARD
         </h2>
         <div className="dateblock">
           <DateBlock /> <Clock />
@@ -34,7 +34,7 @@ export class App extends Component {
         <StationSelector options={OPTIONS} setSelection={this.setSelection} />
         <Table selectedStation={selectedStation} />
         <footer>
-          <p>The app refreshes approximately every minute</p>
+          <p>The Application refreshes after every ~1 minute</p>
         </footer>
       </div>
     );
